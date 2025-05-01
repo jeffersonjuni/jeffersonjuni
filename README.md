@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-👋 Oi eu sou o Jefferson e sou desenvolvedor front-end e atualmente trabalho com tecnologias como JavaScript, TypeScript e React. Estou me especializando para atuar como desenvolvedor full stack, aprofundando meus conhecimentos em Node.js, além de já ter experiência com bancos de dados como SQL Server e MongoDB.
+👋 Oi eu sou o Jefferson e sou desenvolvedor front-end e atualmente trabalho com tecnologias como JavaScript, TypeScript e React. Estou me especializando para atuar como desenvolvedor full stack, aprofundando meus conhecimentos em Node.js, além de já ter experiência com bancos de dados como SQL Server e MySQL.
 
 
 <p align="left">
