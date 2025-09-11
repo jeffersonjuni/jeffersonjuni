@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Jefferson Junior
 
-**`Desenvolvedor Full-stack`**
+**`Desenvolvedor full-stack`**
 
 👋 Sou Jefferson, desenvolvedor full stack, com experiência em JavaScript, TypeScript, React, Next.js, Node.js, HTML e CSS. Possuo conhecimento em bancos de dados como SQL Server e MySQL e estou sempre em busca de aprimorar minhas habilidades. Tenho como objetivo expandir meus conhecimentos futuramente também para PHP.
 
