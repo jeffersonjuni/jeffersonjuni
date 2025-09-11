@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Jefferson Junior
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-stack`**
 
-👋 Oi eu sou o Jefferson e sou desenvolvedor front-end e atualmente trabalho com tecnologias como JavaScript, TypeScript e React. Estou me especializando para atuar como desenvolvedor full stack, aprofundando meus conhecimentos em Node.js, além de já ter experiência com bancos de dados como SQL Server e MySQL.
+👋 Sou Jefferson, desenvolvedor full stack, com experiência em JavaScript, TypeScript, React, Next.js, Node.js, HTML e CSS. Possuo conhecimento em bancos de dados como SQL Server e MySQL e estou sempre em busca de aprimorar minhas habilidades. Tenho como objetivo expandir meus conhecimentos futuramente também para PHP.
 
 
 <p align="left">
@@ -102,6 +102,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NextJS"
+    title="NextJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
