@@ -123,25 +123,5 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=jeffersonjuni&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=pt-br&cache_seconds=86400&v=1"
-      />
-    </td>
-    <td>
-      <img
-        alt="Top Langs"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjuni&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&v=1"
-      />
-    </td>
-  </tr>
-</table>
 
 
