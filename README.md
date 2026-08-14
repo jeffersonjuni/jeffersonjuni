@@ -1,9 +1,14 @@
 # 👨🏻‍💻 Jefferson Luiz
 
-**`Desenvolvedor full-stack`**
+**`Analista de Sistemas Júnior | Desenvolvimento Full Stack`**
 
-👋 Sou Jefferson, desenvolvedor full stack, com experiência em JavaScript, TypeScript, React, Next.js, Node.js, HTML e CSS. Possuo conhecimento em bancos de dados como SQL Server e MySQL e estou sempre em busca de aprimorar minhas habilidades. Tenho como objetivo expandir meus conhecimentos futuramente também para PHP.
+👋 Sou Jefferson, formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP), com foco em análise de sistemas, desenvolvimento de software e soluções tecnológicas.
 
+Possuo conhecimentos em análise de processos, regras de negócio, APIs REST, modelagem de dados e bancos de dados relacionais. Também desenvolvo projetos Full Stack utilizando JavaScript, TypeScript, PHP, Laravel, React, Next.js e Node.js.
+
+Tenho experiência prática com SQL Server, MySQL e PostgreSQL, além de Git, GitHub, Docker, Prisma ORM e Postman. Ao longo dos meus projetos de portfólio, desenvolvi sistemas completos envolvendo autenticação, controle de acesso, regras de negócio, dashboards, relatórios, APIs e integração com bancos de dados.
+
+Atualmente, busco uma oportunidade como **Analista de Sistemas Júnior**, mantendo o desenvolvimento Full Stack como uma das minhas principais competências técnicas.
 
 <p align="left">
     <a href="https://github.com/jeffersonjuni?tab=repositories">
@@ -13,28 +18,28 @@
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://www.linkedin.com/in/jefferson-luiz-a9b169342?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx7h3eX2fRzCuIfAqQ%2Bqu9Q%3D%3D">
+    <a href="https://www.linkedin.com/in/jefferson-luiz-a9b169342">
         <img 
-            alt="Linkedin" 
-            title="Meu Linkedin" 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="https://www.instagram.com/jeffersonnjrr?igsh=MTJjNnkwdW1ocW1zeA%3D%3D&utm_source=qr">
+    <a href="https://www.instagram.com/jeffersonnjrr">
         <img 
             alt="Instagram" 
             title="Meu Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100028657415601&mibextid=wwXIfr&mibextid=wwXIfr">
+    <a href="https://www.facebook.com/profile.php?id=100028657415601">
         <img 
             alt="Facebook" 
             title="Meu Facebook" 
             src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
         />
     </a>
-  <a href="mailto:jeftsantos76@gmail.com">
+    <a href="mailto:jeftsantos76@gmail.com">
         <img 
             alt="Gmail" 
             title="Entre em contato através do e-mail" 
@@ -150,6 +155,31 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Prisma"
+    title="Prisma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 
 <br/>
